@@ -1,0 +1,36 @@
+{
+  "Deals": "Deals",
+  "Map": "Kart",
+  "Favorites": "Favoritter",
+  "Settings": "Innstillinger",
+
+  "Search field placeholder": "Søk på Let's deal",
+  "My Favorites": "Mine favoritter",
+
+  // Settings:
+  "Theme": "Tema",
+  "Language": "Språk",
+
+  // Languages
+  "Choose a language": "Velg et språk",
+  "en": "English (Engelsk)",
+  "it": "Italiano (Italiensk)",
+  "nb": "Bokmål (Bokmål)",
+
+  // Item
+  "BUY": "KJØP",
+
+  "No Result": "Oops... ingen resultater funnet",
+  "No Connection": "Å nei! Tilkoblingsfeil",
+  "No Favorites": "De tingene du liker vil dukke opp her",
+
+  "Filter by category": "Filtrer etter kategori",
+
+  // Categories
+  "Food Drinks": "Mat og Drikke",
+  "Home Decor": "Hjemmedekorasjon",
+  "Bathroom": "Baderom",
+  "Clothes Accessories": "Klær og tilbehør",
+  "Health": "Helse"
+
+}

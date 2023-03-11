@@ -1,0 +1,36 @@
+{
+  "Deals": "Deals",
+  "Map": "Map",
+  "Favorites": "Favorites",
+  "Settings": "Settings",
+
+  "Search field placeholder": "Search on Let's deal",
+  "My Favorites": "My Favorites",
+
+  // Settings:
+  "Theme": "Theme",
+  "Language": "Language",
+
+  // Languages
+  "Choose a language": "Choose a language",
+  "en": "English (English)",
+  "it": "Italiano (Italian)",
+  "nb": "Bokmål (Norwegian Bokmål)",
+
+  // Item
+  "BUY": "BUY",
+
+  "No Result": "Oops... no results found",
+  "No Connection": "Oh no! Connection error",
+  "No Favorites": "The things you like will appear here",
+
+  "Filter by category": "Filter by category",
+
+  // Categories
+  "Food Drinks": "Food & Drinks",
+  "Home Decor": "Home & Decor",
+  "Bathroom": "Bathroom",
+  "Clothes Accessories": "Clothes & Accessories",
+  "Health": "Health"
+
+}

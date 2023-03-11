@@ -1,0 +1,35 @@
+{
+  "Deals": "Occasioni",
+  "Map": "Mappa",
+  "Favorites": "Preferiti",
+  "Settings": "Impostazioni",
+
+  "Search field placeholder": "Cerca su Let's deal",
+  "My Favorites": "I miei Preferiti",
+
+  // Settings:
+  "Theme": "Tema",
+  "Language": "Lingua",
+
+  // Languages
+  "Choose a language": "Imposta la lingua",
+  "en": "English (Inglese)",
+  "it": "Italiano (Italiano)",
+  "nb": "Bokmål (Norvegese Bokmål)",
+
+  // Item
+  "BUY": "ACQUISTA",
+
+  "No Result": "Ops... non trovo nulla",
+  "No Connection": "Oh no! Errore di connessione",
+  "No Favorites": "Le cose che ti piacciono \nappariranno qui",
+
+  "Filter by category": "Filtra per categoria",
+
+  // Categories
+  "Food Drinks": "Cibi e Bevande",
+  "Home Decor": "Casa e Arredo",
+  "Bathroom": "Bagno",
+  "Clothes Accessories": "Vestiti & Accessori",
+  "Health": "Salute"
+}

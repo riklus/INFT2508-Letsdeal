@@ -1,0 +1,183 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "importance": 150,
+      "price": 1244,
+      "thumbnailURL": "http://10.0.0.9:3000/0.png",
+      "title": "25% discount on your first 4 food boxes from Adams Matkasse",
+      "excerpt": "Exciting dinners every day with local ingredients of high quality ",
+      "description": "Adams Matkasse makes it easier to gather around the dinner table and eat dinner favorites with good ingredients. Whether you let the chefs choose the menu for you, or you choose the dinner dishes yourself, you get the best ingredients straight home. Each week, the food box is delivered with tempting dinner recipes, made by Adam's cooking team. The recipes are easy to use, and the ingredients are carefully selected from local small producers in Norway.",
+      "liked": true,
+      "coordinate": {
+        "latitude": 59.912142883853406,
+        "longitude": 10.735772598409454
+      },
+      "gallery": [
+        "http://10.0.0.9:3000/0.png",
+        "http://10.0.0.9:3000/0.0.jpg",
+        "http://10.0.0.9:3000/0.1.jpg",
+        "http://10.0.0.9:3000/0.2.jpg",
+        "http://10.0.0.9:3000/0.3.jpg",
+        "http://10.0.0.9:3000/0.4.jpg"
+      ],
+      "category": "Food Drinks",
+      "tel": "+39 6748878392",
+      "web": "https://www.superduperstore20221.com/"
+    },
+    {
+      "id": 1,
+      "importance": 20,
+      "price": 229,
+      "thumbnailURL": "http://10.0.0.9:3000/1.png",
+      "title": "Collapsible storage boxes 3-pack ",
+      "excerpt": "Clothes storage with 7 and 9 rooms",
+      "description": "Smartly organize your clothes in a beautiful way with these folding drawer organizers which are made of durable nylon with reinforced edges. Three different models with 7 to 9 compartments each, perfect for jumpers, jeans, underwear etc...",
+      "liked": false,
+      "coordinate": {
+        "latitude": 63.42894402600737,
+        "longitude": 10.47320829435704
+      },
+      "gallery": [
+        "http://10.0.0.9:3000/1.png",
+        "http://10.0.0.9:3000/1.0.png",
+        "http://10.0.0.9:3000/1.1.png",
+        "http://10.0.0.9:3000/1.2.png",
+        "http://10.0.0.9:3000/1.3.png",
+        "http://10.0.0.9:3000/1.4.png",
+        "http://10.0.0.9:3000/1.5.png",
+        "http://10.0.0.9:3000/1.6.png",
+        "http://10.0.0.9:3000/1.7.png",
+        "http://10.0.0.9:3000/1.8.png",
+        "http://10.0.0.9:3000/1.9.png"
+      ],
+      "category": "Home Decor",
+      "tel": "+39 6748878392",
+      "web": "https://www.superduperstore20221.com/"
+    },
+    {
+      "id": 2,
+      "importance": 20,
+      "price": 149,
+      "thumbnailURL": "http://10.0.0.9:3000/2.png",
+      "title": "Water-saving high-pressure shower head",
+      "excerpt": "Shower nozzle with 5 different adjustable settings",
+      "description": "Shower nozzle equipped with five different adjustable settings and adjustment of the water pressure. High-intensity water relieves muscle pain and ensures optimal performance even in installations with low water pressure.",
+      "liked": true,
+      "coordinate": {
+        "latitude": 63.4412431823471,
+        "longitude": 10.458260803145595
+      },
+      "gallery": [
+        "http://10.0.0.9:3000/2.png",
+        "http://10.0.0.9:3000/2.0.png",
+        "http://10.0.0.9:3000/2.1.png",
+        "http://10.0.0.9:3000/2.2.png",
+        "http://10.0.0.9:3000/2.3.png",
+        "http://10.0.0.9:3000/2.4.png",
+        "http://10.0.0.9:3000/2.5.png"
+      ],
+      "category": "Bathroom",
+      "tel": "+39 6748878392"
+    },
+    {
+      "id": 4,
+      "importance": 150,
+      "price": 169,
+      "thumbnailURL": "http://10.0.0.9:3000/4.png",
+      "title": "Choose between 12 to 76 pieces of takeaway sushi at Fish Me",
+      "excerpt": "Fresh produce, right in the center of Bergen!",
+      "description": "Lovely seafood for anyone who wants the best the sea can offer! Central location in the middle of Brygga in Bergen",
+      "liked": true,
+      "coordinate": {
+        "latitude": 60.39467249576828,
+        "longitude": 5.323543542329324
+      },
+      "gallery": [
+        "http://10.0.0.9:3000/4.png",
+        "http://10.0.0.9:3000/4.1.png",
+        "http://10.0.0.9:3000/4.2.png",
+        "http://10.0.0.9:3000/4.3.png",
+        "http://10.0.0.9:3000/4.4.png",
+        "http://10.0.0.9:3000/4.5.png"
+      ],
+      "category": "Food Drinks",
+      "web": "https://www.superduperstore20221.com/"
+    },
+    {
+      "id": 5,
+      "importance": 20,
+      "price": 319,
+      "thumbnailURL": "http://10.0.0.9:3000/5.png",
+      "title": "Lined winter shoes for women",
+      "excerpt": "Equipped with a zip on the side",
+      "description": "Stay warm and fashionable this winter! The delicious faux fur keeps your feet free from the cold and the soft sole makes the shoes comfortable to walk in.",
+      "liked": false,
+      "coordinate": {
+        "latitude": 60.39106382092543,
+        "longitude": 5.32276115768474
+      },
+      "gallery": [
+        "http://10.0.0.9:3000/5.png",
+        "http://10.0.0.9:3000/5.1.png",
+        "http://10.0.0.9:3000/5.2.png",
+        "http://10.0.0.9:3000/5.3.png",
+        "http://10.0.0.9:3000/5.4.png",
+        "http://10.0.0.9:3000/5.5.png",
+        "http://10.0.0.9:3000/5.6.png",
+        "http://10.0.0.9:3000/5.7.png",
+        "http://10.0.0.9:3000/5.8.png"
+      ],
+      "category": "Clothes Accessories",
+      "tel": "+39 6748878392",
+      "web": "https://www.superduperstore20221.com/"
+    },
+    {
+      "id": 3,
+      "importance": 20,
+      "price": 249,
+      "thumbnailURL": "http://10.0.0.9:3000/3.png",
+      "title": "Comfortable slippers with anti-slip",
+      "excerpt": "Cozy slippers in women's model",
+      "description": "Cozy slippers in imitation sheepskin and soft material with a comfortable fit, a cozy feeling for the feet at its best!",
+      "liked": false,
+      "coordinate": {
+        "latitude": 63.43788812791984,
+        "longitude": 10.420422423066704
+      },
+      "gallery": [
+        "http://10.0.0.9:3000/3.0.png",
+        "http://10.0.0.9:3000/3.1.png",
+        "http://10.0.0.9:3000/3.2.png",
+        "http://10.0.0.9:3000/3.3.png",
+        "http://10.0.0.9:3000/3.4.png",
+        "http://10.0.0.9:3000/3.5.png",
+        "http://10.0.0.9:3000/3.6.png",
+        "http://10.0.0.9:3000/3.7.png",
+        "http://10.0.0.9:3000/3.8.png"
+      ],
+      "category": "Clothes Accessories",
+      "tel": "+39 6748878392"
+    },
+    {
+      "id": 6,
+      "importance": 150,
+      "price": 399,
+      "thumbnailURL": "http://10.0.0.9:3000/6.png",
+      "title": "Health Test - Intolerance test against over 750 foods, 80 nutrients and 50 metals",
+      "excerpt": "Tired, lethargic, stomach ache, nausea? Test yourself for intolerance and hypersensitivity",
+      "description": "Do you feel tired most of the day, or do you get a huge stomach ache when you eat cream cake? With the Health Diagnostics intolerance test, you can test yourself for 750 different foods and non-foods. For example, you can find out if you are gluten intolerant or lactose intolerant and if you have nutritional deficiencies, such as zinc, magnesium and vitamin D.",
+      "liked": true,
+      "coordinate": {
+        "latitude": 60.33357281758956,
+        "longitude": 5.193193905110846
+      },
+      "gallery": [
+        "http://10.0.0.9:3000/6.png"
+      ],
+      "category": "Health",
+      "tel": "+39 6748878392",
+      "web": "https://www.superduperstore20221.com/"
+    }
+  ]
+}
