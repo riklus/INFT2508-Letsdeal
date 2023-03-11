@@ -56,11 +56,11 @@ The tab menu contains:
 <p align="center">  
 <img src="./screenshots/deals_framed.png" width="22%">
 &nbsp;
-<img src="./screenshots/Map_framed.png" width="22%">
+<img src="./screenshots/map_framed.png" width="22%">
 &nbsp;
-<img src="./screenshots/Favorites_framed.png" width="22%">
+<img src="./screenshots/favorites_framed.png" width="22%">
 &nbsp;
-<img src="./screenshots/Settings_framed.png" width="22%">
+<img src="./screenshots/settings_framed.png" width="22%">
 </p>
 
 <p align="center">  
