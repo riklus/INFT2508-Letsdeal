@@ -40,7 +40,7 @@ buyers can see and buy them. The focus of this project is on the display of item
 
 By using this app the user will be able to visualize the products in a grid, search and filter them by category, learn more about them through descriptions, and see their location on a map. By tapping on a product, the user will be able to see different previews of the item and give them a like. Liked items will be saved in a specific section in the app.
 
-Furthermore, a tab will be dedicated to the setting where the user will be able to change the language and theme of the application.
+Furthermore, a tab will be dedicated to the settings where the user will be able to change the language and theme of the application.
 
 ## Features
 
